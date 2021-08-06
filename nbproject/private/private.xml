@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/bombs/Bomb.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/commands/LoadCommand.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/bombs/DangerousBomb.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/fruitninjagame/IGameObject.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/animationgui/Panel.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/fruits/Fruit.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/fruitninjagame/State.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/animationgui/Animation.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/commands/SliceCommand.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/animationgui/Frame.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/fruitninjagame/Player.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/animationgui/MainMenuPanel.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/fruitninjagame/FruitNinjaGame.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/commands/SaveCommand.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/fruitninjagame/HighScore.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/fruitninjagame/IGameActions.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/fruits/SpecialFruitOne.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/fruitninjagame/FactoryOfGameObjects.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/animationgui/IntermediatePanel.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/fruitninjagame/Game.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/fruits/SpecialFruitTwo.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/fruitninjagame/GameController.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/commands/ResetCommand.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/fruits/NormalFruit.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/commands/ICommand.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/bombs/FatalBomb.java</file>
+            <file>file:/C:/Users/MIX/Documents/NetBeansProjects/FruitNinjaGame/src/fruitninjagame/Memento.java</file>
+        </group>
+    </open-files>
+</project-private>
